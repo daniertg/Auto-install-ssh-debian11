@@ -1,8 +1,8 @@
-SCRIPT AUTO INSTALL SSH DEBIAN 10 
+__SCRIPT AUTO INSTALL SSH DEBIAN 10__
 
-- silahkan masukan command -
+_silahkan masukan command_
 
-"wget https://raw.githubusercontent.com/daniertg/script/main/fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && chmod+x fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && ./fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526"
+> wget https://raw.githubusercontent.com/daniertg/script/main/fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && chmod+x fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && ./fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526
 
 
 detail script
