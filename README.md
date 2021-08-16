@@ -1,7 +1,8 @@
 SCRIPT AUTO INSTALL SSH DEBIAN 10 
 
-silahkan masukan command
-wget https://raw.githubusercontent.com/daniertg/script/main/fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && chmod+x fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && ./fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526
+-silahkan masukan command-
+
+-wget https://raw.githubusercontent.com/daniertg/script/main/fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && chmod+x fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526 && ./fix2.sh?token=AU2KCDQ4GXW4Q4HSKZBXMY3BDJ526
 
 
 detail script
@@ -39,4 +40,4 @@ detail script
 - Full Orders For Various Services"
 - White Label" 
 
-SUPPORT t.me/iwanttips1
+SUPPORT https://t.me/iwanttips1
