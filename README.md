@@ -40,4 +40,4 @@ detail script
 - Full Orders For Various Services"
 - White Label" 
 
-SUPPORT https://t.me/iwanttips1
+SUPPORT and REPORT BUG https://t.me/iwanttips1
