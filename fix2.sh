@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+#c
 
 # initialisasi var
 export DEBIAN_FRONTEND=noninteractive
