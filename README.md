@@ -39,5 +39,3 @@ detail script
 - Auto Delete Expired Account"
 - Full Orders For Various Services"
 - White Label" 
-
-SUPPORT and REPORT BUG https://t.me/iwanttips1
